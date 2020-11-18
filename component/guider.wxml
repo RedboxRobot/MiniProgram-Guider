@@ -1,0 +1,4 @@
+<!--component/guider.wxml-->
+<view class="guider-mask">
+  <view class="guider-mask-text">标记</view>
+</view>
